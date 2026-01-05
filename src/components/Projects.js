@@ -16,6 +16,12 @@ const Projects = () => {
       icon: 'fas fa-shopping-cart'
     },
     {
+      title: 'Order Management System',
+      description: 'Comprehensive QA testing for a mobile application enabling customers to order coffee, track orders in real-time, and providing staff with order management capabilities. Designed and executed test cases covering customer ordering flows, real-time order tracking, staff dashboard functionality, and multi-user role validation. Ensured seamless integration between customer and staff interfaces, validated order status updates, and tested cross-platform compatibility.',
+      tags: ['Mobile Testing', 'Manual Testing', 'Order Management', 'Real-time Tracking', 'Cross-platform'],
+      icon: 'fas fa-coffee'
+    },
+    {
       title: 'Mobile App Data Extraction',
       description: 'End-to-end mobile automation script to extract data from a mobile application and save it to an Excel sheet using Appium for data tracking and comparison.',
       tags: ['Appium', 'Maven', 'Excel'],
@@ -27,6 +33,7 @@ const Projects = () => {
       tags: ['Postman', 'REST API', 'Integration Testing'],
       icon: 'fas fa-plug'
     },
+    
     // {
     //   title: 'Performance Testing Suite',
     //   description: 'Load and performance testing framework using JMeter for web applications.',
