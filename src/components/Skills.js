@@ -27,6 +27,17 @@ const Skills = () => {
       ]
     },
     {
+      icon: 'fas fa-shield-alt',
+      title: 'API & Authentication Testing',
+      skills: [
+        'JWT (JSON Web Tokens)',
+        'Bearer Token Authentication',
+        'OAuth 2.0',
+        'API Security Testing',
+        'Token Validation & Management'
+      ]
+    },
+    {
       icon: 'fas fa-project-diagram',
       title: 'Methodologies',
       skills: [
